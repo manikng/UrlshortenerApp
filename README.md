@@ -5,9 +5,11 @@ UrlshortenerApp is a web application that allows users to shorten long URLs into
 
 urlshortener with nodejs and server side rendering
 ![alt text](image-4.png)
+[urlshortener.webm](https://github.com/user-attachments/assets/2f177101-6753-4225-af81-793893318d85)
 
 shrinku with frontend vite and backend nodejs
 ![alt text](image-5.png)
+[linkshrink.webm](https://github.com/user-attachments/assets/40984061-53f8-45e7-899d-d4b8e4e3db6f)
 
 
 ## Features
